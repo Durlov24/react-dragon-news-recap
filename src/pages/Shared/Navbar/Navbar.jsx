@@ -44,3 +44,8 @@ const Navbar = () => {
 };
 
 export default Navbar;
+
+/* 
+clone git repository from project : must be keep attension on git remote add 'http//bjfj   er alternate hisabe git remote set-url 'httpvcnvmn
+
+*/
